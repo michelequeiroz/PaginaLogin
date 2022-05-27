@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(188, 229, 243);
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive; 
+    color: rgb(250, 12, 123);
+    display: flex;
+    justify-content: center;
+}
+
+.label { 
+    color: rgb(5, 66, 145);
+
+}
+
+.input {
+    margin: 10px;
+    border: 1px solid rgb(3, 109, 247);
+    border-radius: 25px;
+    background-color: rgb(227, 248, 255);
+    padding: 6px;
+
+    
+}
+ #botao {
+        border: 1px solid rgb(154, 195, 243);
+        border-radius: 15px;
+        background-color: rgb(250, 12, 123);
+        color: rgb(252, 248, 248);
+        text-align: center;
+        padding: 8px;    
+        margin-top: 10px;
+
+
+}
