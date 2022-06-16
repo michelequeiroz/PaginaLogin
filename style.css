@@ -27,7 +27,7 @@ h1 {
     background-color: rgb(227, 248, 255);
     padding: 6px;   
 }
- #botao {
+ #bt-enviar {
         border: 1px solid rgb(154, 195, 243);
         border-radius: 15px;
         background-color: rgb(250, 12, 123);
